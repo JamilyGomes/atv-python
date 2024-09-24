@@ -40,4 +40,4 @@ print(81**0.5)
 peso = 45
 altura = 1.45
 
-print(45/1.45) hgftf
+print(45/1.45) 
