@@ -42,10 +42,10 @@
 # a= [1, 2, 3, 4]
 # print(a[0:4])
 
-lista= ["a", "b", "c", "d", "e", "f"]
-print(lista[1:3])
-print(lista[:4])
-print(lista[3:])
-print(lista[:])
-print(lista[0:6])
+# lista= ["a", "b", "c", "d", "e", "f"]
+# print(lista[1:3])
+# print(lista[:4])
+# print(lista[3:])
+# print(lista[:])
+# print(lista[0:6])
 
