@@ -23,4 +23,4 @@
 # print(a[ :9])
 
 a= (input("escreva um nome= "))
-print(a.count("a"))
+print(a.count("a")) 

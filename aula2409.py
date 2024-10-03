@@ -15,3 +15,4 @@ print("nome=", nome)
 print("idade=", i)
 print("sexo=", s)
 print ("sua media aritmetica é=", total)
+
