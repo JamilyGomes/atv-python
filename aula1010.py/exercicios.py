@@ -18,7 +18,7 @@ if senha== 91586924:
         deposito= int(input("digite o valor do deposito: "))
         extrato=extrato+deposito
         print(extrato)
-
+  
     elif opçao== 3:
         saque= int(input("digite o valor do saque: "))
         saque=extrato-saque
