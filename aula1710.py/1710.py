@@ -26,7 +26,7 @@
 #         cont = cont+1
 #         valor=valor-1
         
-        # print (cont)
+#         print (cont)
         
     
 

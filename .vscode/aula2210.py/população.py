@@ -64,23 +64,23 @@ while True:
         break
 
 
-cont=0
-cont1=0
-cont2=0
-cont3=0
-cont4=0
-cont6=0
+# cont=0
+# cont1=0
+# cont2=0
+# cont3=0
+# cont4=0
+# cont6=0
 
-while True:
-        x=int(input("1-Lula\n 2-Dilma\n 3-Bozo\n 4-Betta 6=nulo"))
-        if x==1:
-            cont1=cont1+1
-        if x==2:
-            cont2=cont2+1
-        if x==3:
-            cont3=cont3+1
-        if x==4:
-            cont4=cont4+1
-        if x==6:
-            cont6=cont6+1
-        if x>0:
+# while True:
+#         x=int(input("1-Lula\n 2-Dilma\n 3-Bozo\n 4-Betta 6=nulo"))
+#         if x==1:
+#             cont1=cont1+1
+#         if x==2:
+#             cont2=cont2+1
+#         if x==3:
+#             cont3=cont3+1
+#         if x==4:
+#             cont4=cont4+1
+#         if x==6:
+#             cont6=cont6+1
+#         if x>0:
